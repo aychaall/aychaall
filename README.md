@@ -1,10 +1,3 @@
-## Hi! 👋 my name is Aicha
-
-I am a Computer Science student, with a strong passion ✨for problem-solving and coding. I thrive in tackling complex challenges and continuously enhancing my technical skills across various programming languages and technologies. My goal ✨is to apply my knowledge to real-world projects, contributing to innovative solutions while growing as a developer. 
-
-
-
-
 <h1 align="center">Hi 👋, I'm aicha</h1>
 <h3 align="center">I am a Computer Science student, with a strong passion ✨for problem-solving and coding. I thrive in tackling complex challenges and continuously enhancing my technical skills across various programming languages and technologies. My goal ✨is to apply my knowledge to real-world projects, contributing to innovative solutions while growing as a developer. 
 </h3>
